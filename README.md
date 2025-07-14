@@ -1,2 +1,3 @@
 # test-mcp-server
-Repository for testing MCP server
+
+This is a basic React template for the develop branch.
